@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="409.3" viewBox="0 0 880 409.3" role="img" aria-label="Contrôle">
+<rect x="0.5" y="0.5" width="879" height="408.3" rx="6" fill="#14130F" stroke="#3A3830"/>
+<text x="44" y="56.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.6">04 · Contrôle</text>
+<line x1="44" y1="78" x2="836" y2="78" stroke="#F3EEDF" stroke-width="1" opacity=".55"/>
+<text x="44" y="120.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#EDE8DC" text-anchor="start">Un système d'intelligence artificielle peut faire des erreurs. Les éviter suppose d'identifier</text>
+<text x="44" y="142.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#EDE8DC" text-anchor="start">les étapes sensibles à la conception, et d'y poser les contrôles.</text>
+<text x="44" y="205.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#EDE8DC" text-anchor="start">Un humain dans la boucle</text>
+<text x="44" y="243.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous définissons ensemble les</text>
+<text x="44" y="264.1" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">moments où un humain valide. Le</text>
+<text x="44" y="284.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">dossier lui revient avec les</text>
+<text x="44" y="304.6" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">éléments du choix, et les étapes</text>
+<text x="44" y="324.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">concernées sont écrites au</text>
+<text x="44" y="345.1" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">périmètre avant les travaux.</text>
+<text x="317.33333333333337" y="205.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#EDE8DC" text-anchor="start">Des réponses vérifiables</text>
+<text x="317.33333333333337" y="243.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">Un modèle interrogé seul invente.</text>
+<text x="317.33333333333337" y="264.1" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">Le système répond à partir de vos</text>
+<text x="317.33333333333337" y="284.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">documents, indique sa source, et</text>
+<text x="317.33333333333337" y="304.6" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">signale les questions restées</text>
+<text x="317.33333333333337" y="324.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">sans réponse.</text>
+<text x="590.6666666666667" y="205.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#EDE8DC" text-anchor="start">Des coûts plafonnés</text>
+<text x="590.6666666666667" y="243.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">Chaque installation comprend une</text>
+<text x="590.6666666666667" y="264.1" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">passerelle, et aucun appel à un</text>
+<text x="590.6666666666667" y="284.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">modèle ne la contourne. Vous y</text>
+<text x="590.6666666666667" y="304.6" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">voyez la dépense cas d'usage par</text>
+<text x="590.6666666666667" y="324.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">cas d'usage, et vous y fixez le</text>
+<text x="590.6666666666667" y="345.1" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#B9B3A4" text-anchor="start">plafond.</text>
+</svg>

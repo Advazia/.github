@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="492.4" viewBox="0 0 880 492.4" role="img" aria-label="Équipe">
+<rect x="0.5" y="0.5" width="879" height="491.4" rx="6" fill="#FAFAF9" stroke="#E4E1DB"/>
+<text x="44" y="56.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A1230" text-anchor="start" letter-spacing="1.6">07 · Équipe</text>
+<line x1="44" y1="78" x2="836" y2="78" stroke="#7A1230" stroke-width="1" opacity=".55"/>
+<text x="44" y="120.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">Une équipe formée à l'EPFL : deux ingénieurs en intelligence artificielle, dont un docteur</text>
+<text x="44" y="142.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">spécialisé dans les systèmes privés, et une responsable des projets, qui accompagne vos équipes</text>
+<text x="44" y="165.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">de la définition du besoin à la prise en main des outils.</text>
+<text x="44" y="233.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A1230" text-anchor="start" letter-spacing="1.6">Nous joindre</text>
+<line x1="44" y1="255.5" x2="836" y2="255.5" stroke="#7A1230" opacity=".55"/>
+<text x="44" y="299.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#14130F" text-anchor="start">Trente minutes, en visio.</text>
+<text x="44" y="325.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Nous examinons vos documents et disons ce que nous</text>
+<text x="44" y="345.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">savons faire, y compris lorsque la réponse est non.</text>
+<text x="456" y="299.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Une personne lit votre message, et vous répond sous</text>
+<text x="456" y="319.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">24 heures.</text>
+<text x="456" y="362.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">advazia.ch</text>
+<text x="456" y="383.6" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">contact@advazia.ch</text>
+<text x="456" y="405.2" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">+41 78 305 23 12</text>
+<text x="456" y="426.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Avenue Édouard-Dapples 21, 1006 Lausanne, Suisse</text>
+</svg>

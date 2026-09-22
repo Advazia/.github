@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="653.5" viewBox="0 0 880 653.5" role="img" aria-label="Hébergement">
+<rect x="0.5" y="0.5" width="879" height="652.5" rx="6" fill="#FAFAF9" stroke="#E4E1DB"/>
+<text x="44" y="56.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A1230" text-anchor="start" letter-spacing="1.6">05 · Hébergement</text>
+<line x1="44" y1="78" x2="836" y2="78" stroke="#7A1230" stroke-width="1" opacity=".55"/>
+<text x="44" y="120.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">Vous décidez où vos données sont traitées, et nous installons le système à cet endroit.</text>
+<line x1="44" y1="166.5" x2="836" y2="166.5" stroke="#E4E1DB"/>
+<text x="44" y="192.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#7A1230" text-anchor="start">01</text>
+<text x="74" y="192.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Un serveur dans vos locaux</text>
+<text x="324" y="192.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Vos documents sont traités sur votre réseau, et aucun tiers ne peut</text>
+<text x="324" y="212.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">recevoir une demande d'accès. Le serveur peut être loué, ou acheté par</text>
+<text x="324" y="233.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">vous avant les travaux.</text>
+<line x1="44" y1="261.25" x2="836" y2="261.25" stroke="#E4E1DB"/>
+<text x="44" y="287.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#7A1230" text-anchor="start">02</text>
+<text x="74" y="287.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Notre matériel, à Lausanne</text>
+<text x="324" y="287.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Vos données restent en Suisse, sous droit suisse, dans une</text>
+<text x="324" y="307.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">installation qui n'est partagée avec aucun autre client.</text>
+<line x1="44" y1="335.75" x2="836" y2="335.75" stroke="#E4E1DB"/>
+<text x="44" y="361.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#7A1230" text-anchor="start">03</text>
+<text x="74" y="361.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Un hébergeur suisse</text>
+<text x="324" y="361.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Droit suisse, et aucune société soumise à la juridiction des</text>
+<text x="324" y="382.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">États-Unis.</text>
+<line x1="44" y1="410.25" x2="836" y2="410.25" stroke="#E4E1DB"/>
+<text x="44" y="436.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#7A1230" text-anchor="start">04</text>
+<text x="74" y="436.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Un hébergeur européen</text>
+<text x="324" y="436.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Droit européen, et le RGPD.</text>
+<line x1="44" y1="464.5" x2="836" y2="464.5" stroke="#E4E1DB"/>
+<text x="44" y="490.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" font-weight="600" fill="#7A1230" text-anchor="start">05</text>
+<text x="74" y="490.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Un fournisseur américain</text>
+<text x="324" y="490.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Le CLOUD Act permet à une autorité des États-Unis de demander l'accès</text>
+<text x="324" y="510.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">à vos données au fournisseur, où que se trouvent les serveurs.</text>
+<line x1="44" y1="539" x2="836" y2="539" stroke="#E4E1DB"/>
+<text x="44" y="569.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Si vous n'avez pas d'hébergement, nous pouvons l'assurer sur notre matériel, en Suisse. Si vos données ne</text>
+<text x="44" y="589.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">doivent pas quitter vos locaux, nous pouvons installer un serveur chez vous.</text>
+</svg>

@@ -1,33 +1,50 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="492" viewBox="0 0 880 492" role="img" aria-label="Logiciels">
-<rect x="0.5" y="0.5" width="879" height="491" rx="6" fill="#14130F" stroke="#3A3830"/>
-<text x="44" y="56.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.6">02 · Logiciels</text>
-<line x1="44" y1="78" x2="836" y2="78" stroke="#F3EEDF" stroke-width="1" opacity=".55"/>
-<text x="44" y="120.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous examinons les logiciels à mesure qu'ils paraissent,</text>
-<text x="44" y="141.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">nous les éprouvons sur nos propres machines, et nous ne</text>
-<text x="44" y="162.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">retenons que ceux qui restent fiables en service réel.</text>
-<text x="44" y="205.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous privilégions les logiciels libres chaque fois</text>
-<text x="44" y="226.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">qu'ils répondent au besoin. Nous étudions au cas par cas</text>
-<text x="44" y="247.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">ceux qui ne figurent pas au catalogue.</text>
-<text x="44" y="290.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous développons la couche entre ces logiciels et vos</text>
-<text x="44" y="311.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">systèmes : le raccordement à vos outils, les règles de</text>
-<text x="44" y="332.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">votre métier, la reprise et la numérisation de vos</text>
-<text x="44" y="353.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#B9B3A4" text-anchor="start">données.</text>
-<text x="44" y="396.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#EDE8DC" text-anchor="start">Nous n'installons aucun logiciel dont vos données</text>
-<text x="44" y="417.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#EDE8DC" text-anchor="start">constituent le modèle économique.</text>
-<rect x="514" y="108" width="322" height="72" rx="4" fill="none" stroke="#F3EEDF" stroke-width="1" opacity="0.75"/>
-<text x="528" y="130.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.2">VOS ÉQUIPES POSENT LA QUESTION</text>
-<text x="528" y="150.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">Une conversation, un document déposé, du</text>
-<text x="528" y="168.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">courrier qui arrive.</text>
-<path d="M675 184 v14 m-5 -6 l5 6 l5 -6" fill="none" stroke="#B9B3A4" stroke-width="1.2"/>
-<rect x="514" y="206" width="322" height="110" rx="4" fill="#1C1B17" stroke="#F3EEDF" stroke-width="1" opacity="1"/>
-<text x="528" y="228.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.2">CE QUE NOUS INSTALLONS</text>
-<text x="528" y="248.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">Les logiciels du catalogue, et la couche</text>
-<text x="528" y="266.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">qui les relie à vos systèmes.</text>
-<text x="528" y="285.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">L'ensemble lit et écrit sous les droits que</text>
-<text x="528" y="304.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">vous fixez.</text>
-<path d="M675 320 v14 m-5 -6 l5 6 l5 -6" fill="none" stroke="#B9B3A4" stroke-width="1.2"/>
-<rect x="514" y="342" width="322" height="72" rx="4" fill="none" stroke="#F3EEDF" stroke-width="1" opacity="0.75"/>
-<text x="528" y="364.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.2">VOS SYSTÈMES · ILS NE CHANGENT PAS</text>
-<text x="528" y="384.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">Messagerie · Fichiers · Comptabilité ·</text>
-<text x="528" y="402.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="400" fill="#EDE8DC" text-anchor="start">Logiciel de gestion</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="649" viewBox="0 0 880 649" role="img" aria-label="02 · Logiciels">
+<rect x="0" y="0" width="880" height="649" fill="#FAFAF9"/>
+
+<line x1="56" y1="74" x2="56" y2="605" stroke="#E5E1D8"/>
+<text x="44" y="54.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="start">16</text>
+<text x="70" y="60.0" font-family="'IBM Plex Serif',Georgia,'Times New Roman',serif" font-size="24" font-weight="400" fill="#14130F" text-anchor="start">Logiciels</text>
+<text x="336" y="64.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">Nous examinons les logiciels à mesure qu'ils paraissent, nous</text>
+<text x="336" y="85.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">les éprouvons sur nos propres machines, et nous ne retenons que</text>
+<text x="336" y="107.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">ceux qui restent fiables en service réel.</text>
+<text x="318" y="64.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">17</text>
+<text x="318" y="85.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">18</text>
+<text x="318" y="107.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">19</text>
+<text x="336" y="141.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">Nous privilégions les logiciels libres chaque fois qu'ils</text>
+<text x="336" y="163.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">répondent au besoin. Nous étudions au cas par cas ceux qui ne</text>
+<text x="336" y="184.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">figurent pas au catalogue.</text>
+<text x="318" y="141.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">20</text>
+<text x="318" y="163.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">21</text>
+<text x="318" y="184.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">22</text>
+<text x="336" y="218.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">Nous développons la couche entre ces logiciels et vos systèmes</text>
+<text x="336" y="240.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">: le raccordement à vos outils, les règles de votre métier, la</text>
+<text x="336" y="262.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#6B665A" text-anchor="start">reprise et la numérisation de vos données.</text>
+<text x="318" y="218.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">23</text>
+<text x="318" y="240.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">24</text>
+<text x="318" y="262.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">25</text>
+<text x="336" y="295.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#14130F" text-anchor="start">Nous n'installons aucun logiciel dont vos données constituent</text>
+<text x="336" y="317.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="500" fill="#14130F" text-anchor="start">le modèle économique.</text>
+<text x="318" y="295.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">26</text>
+<text x="318" y="317.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">27</text>
+<text x="336" y="365.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start" letter-spacing="1.4">VOS ÉQUIPES POSENT LA QUESTION</text>
+<rect x="336" y="375.25" width="500" height="34" rx="3" fill="none" stroke="#E5E1D8" stroke-width="1"/>
+<text x="350" y="396.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#14130F" text-anchor="start">Une conversation, un document déposé, du courrier qui arrive.</text>
+<path d="M586 413.25 v18 m-4 -6 l4 6 l4 -6" fill="none" stroke="#7A1230" stroke-width="1.2"/>
+<text x="336" y="443.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start" letter-spacing="1.4">CE QUE NOUS INSTALLONS</text>
+<rect x="336" y="453.25" width="500" height="71.75" rx="3" fill="#FFFFFF" stroke="#7A1230" stroke-width="1.2"/>
+<text x="350" y="475.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#14130F" text-anchor="start">Les logiciels du catalogue, et</text>
+<text x="350" y="492.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#14130F" text-anchor="start">la couche qui les relie à vos</text>
+<text x="350" y="509.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#14130F" text-anchor="start">systèmes.</text>
+<text x="592" y="475.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#6B665A" text-anchor="start">L'ensemble lit et écrit sous</text>
+<text x="592" y="492.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" font-weight="400" fill="#6B665A" text-anchor="start">les droits que vous fixez.</text>
+<path d="M586 529 v18 m-4 -6 l4 6 l4 -6" fill="none" stroke="#7A1230" stroke-width="1.2"/>
+<text x="336" y="559.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start" letter-spacing="1.4">VOS SYSTÈMES · ILS NE CHANGENT PAS</text>
+<rect x="336.0" y="569" width="119.0" height="30" rx="3" fill="none" stroke="#E5E1D8"/>
+<text x="395.5" y="588.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#14130F" text-anchor="middle">Messagerie</text>
+<rect x="463.0" y="569" width="119.0" height="30" rx="3" fill="none" stroke="#E5E1D8"/>
+<text x="522.5" y="588.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#14130F" text-anchor="middle">Fichiers</text>
+<rect x="590.0" y="569" width="119.0" height="30" rx="3" fill="none" stroke="#E5E1D8"/>
+<text x="649.5" y="588.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#14130F" text-anchor="middle">Comptabilité</text>
+<rect x="717.0" y="569" width="119.0" height="30" rx="3" fill="none" stroke="#E5E1D8"/>
+<text x="776.5" y="588.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#14130F" text-anchor="middle">Logiciel de gestion</text>
 </svg>

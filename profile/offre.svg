@@ -1,44 +1,99 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="732.25" viewBox="0 0 880 732.25" role="img" aria-label="Offre et prix">
-<rect x="0.5" y="0.5" width="879" height="731.25" rx="6" fill="#14130F" stroke="#3A3830"/>
-<text x="44" y="56.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.6">06 · Offre et prix</text>
-<line x1="44" y1="78" x2="836" y2="78" stroke="#F3EEDF" stroke-width="1" opacity=".55"/>
-<text x="44" y="120.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#EDE8DC" text-anchor="start">Chaque étape se décide séparément, à un prix arrêté avant qu'elle commence. Aucune n'est facturée au</text>
-<text x="44" y="141.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#EDE8DC" text-anchor="start">temps passé. Elles valent pour les quatre formes d'intervention, même si une intervention ne les appelle</text>
-<text x="44" y="162.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#EDE8DC" text-anchor="start">pas toutes.</text>
-<text x="214" y="209.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.2">Ce qu'elle produit</text>
-<text x="538" y="209.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10.5" font-weight="600" fill="#F3EEDF" text-anchor="start" letter-spacing="1.2">Ce à quoi nous nous engageons</text>
-<line x1="44" y1="221" x2="836" y2="221" stroke="#3A3830"/>
-<text x="44" y="247.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#EDE8DC" text-anchor="start">01  Diagnostic</text>
-<text x="214" y="247.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous chiffrons ce que vos processus</text>
-<text x="214" y="266.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">répétitifs coûtent aujourd'hui, et nous</text>
-<text x="214" y="286.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">nommons ceux dont l'automatisation</text>
-<text x="214" y="305.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">rapporterait le plus.</text>
-<text x="538" y="247.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">Il n'est pas facturé, et vous gardez le</text>
-<text x="538" y="266.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">document, que vous alliez plus loin ou</text>
-<text x="538" y="286.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">non.</text>
-<line x1="44" y1="335" x2="836" y2="335" stroke="#3A3830"/>
-<text x="44" y="361.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#EDE8DC" text-anchor="start">02  Mise en production</text>
-<text x="214" y="361.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous mettons un cas d'usage en service, à</text>
-<text x="214" y="380.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">une date convenue avec vous.</text>
-<text x="538" y="361.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">Le prix est arrêté d'avance et n'est</text>
-<text x="538" y="380.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">exigible qu'à la mise en service. Si la</text>
-<text x="538" y="400.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">date n'est pas tenue, nous ne le facturons</text>
-<text x="538" y="419.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">pas.</text>
-<line x1="44" y1="449" x2="836" y2="449" stroke="#3A3830"/>
-<text x="44" y="475.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#EDE8DC" text-anchor="start">03  Formation</text>
-<text x="214" y="475.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">Vos équipes apprennent à conduire le</text>
-<text x="214" y="494.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">système, et à traiter les dossiers qu'il</text>
-<text x="214" y="514.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">leur renvoie.</text>
-<text x="538" y="475.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">Elle est comprise dans le prix de chaque</text>
-<text x="538" y="494.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">installation, et nous la donnons aussi</text>
-<text x="538" y="514.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">seule.</text>
-<line x1="44" y1="543.5" x2="836" y2="543.5" stroke="#3A3830"/>
-<text x="44" y="569.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#EDE8DC" text-anchor="start">04  Maintien en service</text>
-<text x="214" y="569.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">Nous supervisons le système, nous tenons</text>
-<text x="214" y="589.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">les logiciels à jour, et nous faisons</text>
-<text x="214" y="608.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#B9B3A4" text-anchor="start">évoluer le périmètre.</text>
-<text x="538" y="569.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">Un abonnement mensuel, résiliable à tout</text>
-<text x="538" y="589.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="400" fill="#EDE8DC" text-anchor="start">moment.</text>
-<line x1="44" y1="638" x2="836" y2="638" stroke="#3A3830"/>
-<text x="44" y="668.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#EDE8DC" text-anchor="start">Le périmètre et la définition de « en production » sont écrits et signés avant que les travaux commencent.</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="915" viewBox="0 0 880 915" role="img" aria-label="06 · Offre et prix">
+<rect x="0" y="0" width="880" height="915" fill="#FAFAF9"/>
+
+<line x1="56" y1="74" x2="56" y2="871" stroke="#E5E1D8"/>
+<text x="44" y="54.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="start">107</text>
+<text x="70" y="60.0" font-family="'IBM Plex Serif',Georgia,'Times New Roman',serif" font-size="24" font-weight="400" fill="#14130F" text-anchor="start">Offre et prix</text>
+<text x="336" y="64.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">Chaque étape se décide séparément, à un prix arrêté avant</text>
+<text x="336" y="85.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">qu'elle commence. Aucune n'est facturée au temps passé. Elles</text>
+<text x="336" y="107.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">valent pour les quatre formes d'intervention, même si une</text>
+<text x="336" y="129.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">intervention ne les appelle pas toutes.</text>
+<text x="318" y="64.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">108</text>
+<text x="318" y="85.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">109</text>
+<text x="318" y="107.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">110</text>
+<text x="318" y="129.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">111</text>
+<text x="486" y="181.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start" letter-spacing="1.2">CE QU'ELLE PRODUIT</text>
+<text x="669" y="181.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start" letter-spacing="1.2">CE À QUOI NOUS NOUS ENGAGEONS</text>
+<line x1="336" y1="195.0" x2="836" y2="195.0" stroke="#E5E1D8"/>
+<text x="336" y="217.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start">01</text>
+<text x="358" y="217.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Diagnostic</text>
+<text x="486" y="217.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">Nous chiffrons ce que</text>
+<text x="486" y="237.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">vos processus</text>
+<text x="486" y="257.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">répétitifs coûtent</text>
+<text x="486" y="277.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">aujourd'hui, et nous</text>
+<text x="486" y="298.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">nommons ceux dont</text>
+<text x="486" y="318.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">l'automatisation</text>
+<text x="486" y="338.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">rapporterait le plus.</text>
+<text x="669" y="217.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Il n'est pas facturé,</text>
+<text x="669" y="237.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">et vous gardez le</text>
+<text x="669" y="257.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">document, que vous</text>
+<text x="669" y="277.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">alliez plus loin ou</text>
+<text x="669" y="298.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">non.</text>
+<text x="318" y="217.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">112</text>
+<text x="318" y="237.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">113</text>
+<text x="318" y="257.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">114</text>
+<text x="318" y="277.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">115</text>
+<text x="318" y="298.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">116</text>
+<text x="318" y="318.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">117</text>
+<text x="318" y="338.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">118</text>
+<line x1="336" y1="370.8" x2="836" y2="370.8" stroke="#E5E1D8"/>
+<text x="336" y="392.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start">02</text>
+<text x="358" y="392.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Mise en</text>
+<text x="358" y="413.1" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">production</text>
+<text x="486" y="392.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">Nous mettons un cas</text>
+<text x="486" y="413.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">d'usage en service, à</text>
+<text x="486" y="433.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">une date convenue</text>
+<text x="486" y="453.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">avec vous.</text>
+<text x="669" y="392.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Le prix est arrêté</text>
+<text x="669" y="413.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">d'avance et n'est</text>
+<text x="669" y="433.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">exigible qu'à la mise</text>
+<text x="669" y="453.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">en service. Si la date</text>
+<text x="669" y="473.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">n'est pas tenue, nous</text>
+<text x="669" y="494.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">ne le facturons pas.</text>
+<text x="318" y="392.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">119</text>
+<text x="318" y="413.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">120</text>
+<text x="318" y="433.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">121</text>
+<text x="318" y="453.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">122</text>
+<text x="318" y="473.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">123</text>
+<text x="318" y="494.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">124</text>
+<line x1="336" y1="526.3" x2="836" y2="526.3" stroke="#E5E1D8"/>
+<text x="336" y="548.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start">03</text>
+<text x="358" y="548.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Formation</text>
+<text x="486" y="548.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">Vos équipes</text>
+<text x="486" y="568.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">apprennent à conduire</text>
+<text x="486" y="588.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">le système, et à</text>
+<text x="486" y="609.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">traiter les dossiers</text>
+<text x="486" y="629.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">qu'il leur renvoie.</text>
+<text x="669" y="548.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Elle est comprise dans</text>
+<text x="669" y="568.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">le prix de chaque</text>
+<text x="669" y="588.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">installation, et nous</text>
+<text x="669" y="609.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">la donnons aussi</text>
+<text x="669" y="629.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">seule.</text>
+<text x="318" y="548.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">125</text>
+<text x="318" y="568.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">126</text>
+<text x="318" y="588.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">127</text>
+<text x="318" y="609.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">128</text>
+<text x="318" y="629.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">129</text>
+<line x1="336" y1="661.5" x2="836" y2="661.5" stroke="#E5E1D8"/>
+<text x="336" y="683.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#7A1230" text-anchor="start">04</text>
+<text x="358" y="683.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">Maintien en</text>
+<text x="358" y="703.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="600" fill="#14130F" text-anchor="start">service</text>
+<text x="486" y="683.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">Nous supervisons le</text>
+<text x="486" y="703.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">système, nous tenons</text>
+<text x="486" y="724.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">les logiciels à jour,</text>
+<text x="486" y="744.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">et nous faisons</text>
+<text x="486" y="764.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B665A" text-anchor="start">évoluer le périmètre.</text>
+<text x="669" y="683.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Un abonnement mensuel,</text>
+<text x="669" y="703.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">résiliable à tout</text>
+<text x="669" y="724.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">moment.</text>
+<text x="318" y="683.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">130</text>
+<text x="318" y="703.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">131</text>
+<text x="318" y="724.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">132</text>
+<text x="318" y="744.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">133</text>
+<text x="318" y="764.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">134</text>
+<line x1="336" y1="796.8" x2="836" y2="796.8" stroke="#E5E1D8"/>
+<text x="336" y="822.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#14130F" text-anchor="start">Le périmètre et la définition de « en production » sont écrits et</text>
+<text x="336" y="843.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14" font-weight="400" fill="#14130F" text-anchor="start">signés avant que les travaux commencent.</text>
+<text x="318" y="822.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">135</text>
+<text x="318" y="843.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">136</text>
 </svg>

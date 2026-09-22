@@ -1,19 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="492.4" viewBox="0 0 880 492.4" role="img" aria-label="Équipe">
-<rect x="0.5" y="0.5" width="879" height="491.4" rx="6" fill="#FAFAF9" stroke="#E4E1DB"/>
-<text x="44" y="56.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A1230" text-anchor="start" letter-spacing="1.6">07 · Équipe</text>
-<line x1="44" y1="78" x2="836" y2="78" stroke="#7A1230" stroke-width="1" opacity=".55"/>
-<text x="44" y="120.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">Une équipe formée à l'EPFL : deux ingénieurs en intelligence artificielle, dont un docteur</text>
-<text x="44" y="142.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">spécialisé dans les systèmes privés, et une responsable des projets, qui accompagne vos équipes</text>
-<text x="44" y="165.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="15" font-weight="400" fill="#14130F" text-anchor="start">de la définition du besoin à la prise en main des outils.</text>
-<text x="44" y="233.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" font-weight="600" fill="#7A1230" text-anchor="start" letter-spacing="1.6">Nous joindre</text>
-<line x1="44" y1="255.5" x2="836" y2="255.5" stroke="#7A1230" opacity=".55"/>
-<text x="44" y="299.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#14130F" text-anchor="start">Trente minutes, en visio.</text>
-<text x="44" y="325.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Nous examinons vos documents et disons ce que nous</text>
-<text x="44" y="345.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">savons faire, y compris lorsque la réponse est non.</text>
-<text x="456" y="299.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">Une personne lit votre message, et vous répond sous</text>
-<text x="456" y="319.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" font-weight="400" fill="#6B675F" text-anchor="start">24 heures.</text>
-<text x="456" y="362.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">advazia.ch</text>
-<text x="456" y="383.6" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">contact@advazia.ch</text>
-<text x="456" y="405.2" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">+41 78 305 23 12</text>
-<text x="456" y="426.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13.5" font-weight="400" fill="#14130F" text-anchor="start">Avenue Édouard-Dapples 21, 1006 Lausanne, Suisse</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="223" viewBox="0 0 880 223" role="img" aria-label="07 · Équipe">
+<rect x="0" y="0" width="880" height="223" fill="#FAFAF9"/>
+
+<line x1="56" y1="74" x2="56" y2="179" stroke="#E5E1D8"/>
+<text x="44" y="54.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="start">137</text>
+<text x="70" y="60.0" font-family="'IBM Plex Serif',Georgia,'Times New Roman',serif" font-size="24" font-weight="400" fill="#14130F" text-anchor="start">Équipe</text>
+<text x="336" y="64.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">Une équipe formée à l'EPFL : deux ingénieurs en intelligence</text>
+<text x="336" y="85.8" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">artificielle, dont un docteur spécialisé dans les systèmes</text>
+<text x="336" y="107.5" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">privés, et une responsable des projets, qui accompagne vos</text>
+<text x="336" y="129.3" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">équipes de la définition du besoin à la prise en main des</text>
+<text x="336" y="151.0" font-family="'IBM Plex Sans',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="14.5" font-weight="400" fill="#14130F" text-anchor="start">outils.</text>
+<text x="318" y="64.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">138</text>
+<text x="318" y="85.8" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">139</text>
+<text x="318" y="107.5" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">140</text>
+<text x="318" y="129.3" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">141</text>
+<text x="318" y="151.0" font-family="'IBM Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="9.5" font-weight="400" fill="#9A958A" text-anchor="end">142</text>
 </svg>

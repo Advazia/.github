@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="header.svg" width="880" alt="Advazia — Nous conduisons le passage des entreprises à l'ère de l'intelligence artificielle.">
+  <img src="accroche.svg" width="880" alt="Advazia — Nous conduisons le passage des entreprises à l'ère de l'intelligence artificielle.">
 </p>
 
 <p align="center">
@@ -10,42 +10,48 @@
 </p>
 
 <p align="center">
-  <img src="travail.svg" width="880" alt="Comment nous travaillons">
+  <img src="travail.svg" width="880" alt="01 · Comment nous travaillons">
 </p>
 
 <p align="center">
-  <img src="logiciels.svg" width="880" alt="Logiciels">
+  <img src="logiciels.svg" width="880" alt="02 · Logiciels">
 </p>
 
 <p align="center"><sub><i><a href="https://advazia.ch/catalogue/">Le catalogue complet</a></i></sub></p>
 
 <p align="center">
-  <img src="cas-usage.svg" width="880" alt="Cas d'usage">
+  <img src="cas-usage.svg" width="880" alt="03 · Cas d'usage">
 </p>
 
 <p align="center"><sub><i><a href="https://advazia.ch/cas-usage/">Les cas d'usage en détail</a></i></sub></p>
 
 <p align="center">
-  <img src="controle.svg" width="880" alt="Contrôle">
+  <img src="controle.svg" width="880" alt="04 · Contrôle">
 </p>
 
 <p align="center">
-  <img src="hebergement.svg" width="880" alt="Hébergement">
+  <img src="hebergement.svg" width="880" alt="05 · Hébergement">
 </p>
 
 <p align="center"><sub><i><a href="https://advazia.ch/hebergement/">Les hébergements en détail</a></i></sub></p>
 
 <p align="center">
-  <img src="offre.svg" width="880" alt="Offre et prix">
+  <img src="offre.svg" width="880" alt="06 · Offre et prix">
 </p>
 
 <p align="center"><sub><i><a href="https://advazia.ch/methode/">La méthode en détail</a> · <a href="https://advazia.ch/formation/">La formation</a></i></sub></p>
 
 <p align="center">
-  <img src="equipe.svg" width="880" alt="Équipe">
+  <img src="equipe.svg" width="880" alt="07 · Équipe">
 </p>
 
-<p align="center"><sub><i><a href="https://advazia.ch/equipe/">L'équipe</a> · <a href="https://book.advazia.ch/advazia/appel-decouverte">Choisir une date</a></i></sub></p>
+<p align="center"><sub><i><a href="https://advazia.ch/equipe/">L'équipe</a></i></sub></p>
+
+<p align="center">
+  <img src="joindre.svg" width="880" alt="08 · Nous joindre">
+</p>
+
+<p align="center"><sub><i><a href="https://book.advazia.ch/advazia/appel-decouverte">Choisir une date</a></i></sub></p>
 
 <details>
 <summary>version texte (lecteurs d'écran, écrans étroits, affichage brut)</summary>
@@ -278,7 +284,10 @@
 │  équipes de la définition du besoin à la prise     │
 │  en main des outils.                               │
 │                                                    │
-│  NOUS JOINDRE                                      │
+└────────────────────────────────────────────────────┘
+
+┌─ FIG_008 · NOUS JOINDRE ───────────────────── 08 ─┐
+│                                                    │
 │    Trente minutes, en visio.                       │
 │    Nous examinons vos documents et disons ce que   │
 │    nous savons faire, y compris lorsque la         │
